@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-04T06:47:34.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="3zONvJOcEfhkg84obC0h" version="12.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-04T06:49:41.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="OGd3HB7MAiwcGS6eRddB" version="12.9.7" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
             <mxPoint x="522.5" y="269.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZxgmMFEClVDVy1VnZzGN-45" value="基本概念" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="ZxgmMFEClVDVy1VnZzGN-45" value="基本单元" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="430" y="540" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZxgmMFEClVDVy1VnZzGN-46" value="三大特性" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
@@ -113,17 +113,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="790" y="600" as="sourcePoint" />
             <mxPoint x="705" y="680" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZxgmMFEClVDVy1VnZzGN-62" value="" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=1;fontFamily=Verdana;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="ZxgmMFEClVDVy1VnZzGN-45" target="ZxgmMFEClVDVy1VnZzGN-46">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="432.5" y="280" as="sourcePoint" />
-            <mxPoint x="550" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZxgmMFEClVDVy1VnZzGN-63" value="实现" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZxgmMFEClVDVy1VnZzGN-62">
-          <mxGeometry x="-0.1" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
